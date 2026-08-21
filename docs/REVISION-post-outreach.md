@@ -152,3 +152,40 @@ while Krysha still remembers the conversation.
 4. **Second attempt on the 102 unanswered** — a voice note beats another text.
 5. **Diarise the 13 "After Summer" with real dates** before the detail is lost.
 6. **Close 31 August as planned.** The result is the result; do not extend it to chase my original number.
+
+---
+
+## Addendum: the six months, and the seventh month free
+
+**Was a bonus month ever pitched? No.** Every one of the sixteen conversions paid the exact
+plain multiple of their own monthly rate — 3 × 550 = 1,650, 3 × 1,000 = 3,000,
+6 × 1,400 = 8,400. Not one sweetener, not one discount. So August tested three months against
+six at **zero** sweetener. It did not test six-plus-one.
+
+**Drop the bonus month anyway.** A free seventh month is a 14.3% discount in kind, and it
+answers *price* — which was 6 of 48 refusals, 12%. The refusals break down as:
+
+| Objection | People | Share | Answered by |
+|---|---|---|---|
+| Uncertainty — relocating, pregnant, injured, unsure | 23 | **48%** | an exit clause · costs AED 0 |
+| Commitment — staying on monthly, planning to leave | 17 | 35% | a shorter term |
+| Price | 6 | 12% | a free month · costs 14.3% |
+| Competitor | 2 | 4% | — |
+
+Spending 14.3% of margin on 12% of the refusals is the wrong trade, and it breaks a precedent
+that has survived two campaigns and AED 38,150 of full-price sales.
+
+**Replace it with an exit.** Relocation, pregnancy or injury returns the unused balance as
+credit. It answers four times as many refusals and costs nothing unless someone uses it.
+
+**Keep six months, as an upsell only.** The log records what people converted *to*, never what
+they were *offered*, so the six-month denominator is invisible — one sale out of an unknown
+number of chances is not proof of failure, and that sale was AED 8,400, 22% of the campaign
+and worth 3.6 three-month sales.
+
+But for the ten days left it is nearly irrelevant. Of the 36 untouched live members, only
+**two** match the profile of the person who took it (top tier, 10+ months paid, charged inside
+the last fortnight, no travel or pregnancy flag): **Simona Musso** (19 months) and
+**Asmaa Chraibi** (11 months). Lead with three months for all 36; offer six to those two only
+*after* they have said yes. Upside and downside are both about AED 3,000, so it only pays where
+the profile fits.
