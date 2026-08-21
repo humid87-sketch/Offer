@@ -1,0 +1,123 @@
+<!doctype html><html><head><meta charset="utf-8"><title>The Pitch</title>
+<style>
+@page { size: A4; margin: 11mm 13mm; }
+*{box-sizing:border-box;margin:0;padding:0;}
+html,body{-webkit-print-color-adjust:exact;print-color-adjust:exact;}
+body{
+  font-family:"Century Gothic","URW Gothic",Arial,sans-serif;
+  color:#231F20; background:#fff; font-size:9pt; line-height:1.42;
+}
+.head{display:flex;justify-content:space-between;align-items:baseline;
+  border-bottom:1.5pt solid #231F20;padding-bottom:3.5mm;margin-bottom:4.5mm;}
+.logo{font-size:11pt;letter-spacing:.03em;}
+.logo b{font-weight:700;}
+.when{font-size:7.4pt;letter-spacing:.26em;text-transform:uppercase;color:#A0917C;font-weight:700;}
+h1{font-size:17.5pt;font-weight:700;line-height:1.12;letter-spacing:-.02em;margin-bottom:4mm;}
+h1 span{color:#A0917C;}
+h2{font-size:7.4pt;letter-spacing:.26em;text-transform:uppercase;color:#A0917C;
+  font-weight:700;margin-bottom:2mm;}
+
+table{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums;}
+th{font-size:7.2pt;letter-spacing:.16em;text-transform:uppercase;color:#A0917C;font-weight:700;
+  text-align:right;padding:0 0 2mm 0;border-bottom:.75pt solid #C9BFB1;}
+th:first-child{text-align:left;}
+td{padding:1.9mm 0;border-bottom:.5pt solid #E3DCD2;text-align:right;font-size:10pt;}
+td:first-child{text-align:left;font-weight:700;}
+.big{font-weight:700;font-size:12pt;background:#F2EEE8;}
+.mut{color:#8C8072;font-size:9.5pt;}
+.sub{font-size:7.8pt;color:#8C8072;margin-top:1.5mm;}
+
+.cols{display:flex;gap:5mm;margin:4.5mm 0;}
+.card{flex:1;border:.75pt solid #C9BFB1;padding:3.5mm 4mm;}
+.card.on{background:#231F20;border-color:#231F20;}
+.card.on h2{color:#A0917C;}
+.card.on .t{color:#fff;}
+.card.on li{color:#EDE7DE;}
+.card.on li::before{color:#A0917C;}
+.t{font-size:11pt;font-weight:700;margin-bottom:.5mm;}
+.pr{font-size:7.6pt;color:#8C8072;margin-bottom:2.2mm;}
+.card.on .pr{color:#A0917C;}
+ul{list-style:none;}
+li{padding-left:5mm;position:relative;margin-bottom:1.1mm;font-size:8.7pt;line-height:1.33;}
+li::before{content:"—";position:absolute;left:0;color:#A0917C;font-weight:700;}
+
+.say{background:#F2EEE8;border-left:2.5pt solid #A0917C;padding:3.5mm 4.5mm;margin-bottom:4mm;}
+.say p{font-size:9.8pt;line-height:1.45;font-weight:700;}
+
+.obj{width:100%;border-collapse:collapse;margin-bottom:4mm;}
+.obj td{border:0;padding:1.3mm 0;text-align:left;font-size:8.8pt;vertical-align:top;}
+.obj td:first-child{width:36mm;font-weight:700;color:#3F2E23;padding-right:4mm;}
+
+.never{border-top:1.5pt solid #231F20;padding-top:3mm;display:flex;gap:6mm;}
+.never div{flex:1;font-size:8.4pt;line-height:1.4;}
+.never b{display:block;font-size:7.4pt;letter-spacing:.26em;text-transform:uppercase;
+  color:#A0917C;margin-bottom:1.5mm;}
+</style></head><body>
+
+<div class="head">
+  <div class="logo"><b>kaizen</b>pilates</div>
+  <div class="when">The pitch · closes 31 August</div>
+</div>
+
+<h1>Ask for the Half Year.<br><span>Step down to the Quarter.</span></h1>
+
+<table>
+  <thead><tr><th>They're on</th><th>Paying now</th><th>Half Year · 6 months</th><th>Quarter · 3 months</th></tr></thead>
+  <tbody>
+    <tr><td>Four Class</td><td class="mut">550</td><td class="big">AED 3,300</td><td>AED 1,650</td></tr>
+    <tr><td>Eight Class</td><td class="mut">1,000</td><td class="big">AED 6,000</td><td>AED 3,000</td></tr>
+    <tr><td>Twelve Class</td><td class="mut">1,400</td><td class="big">AED 8,400</td><td>AED 4,200</td></tr>
+  </tbody>
+</table>
+<p class="sub">The same rate they already pay, held for the term. Never discount it.</p>
+
+<div class="cols">
+  <div class="card on">
+    <h2>Lead with this</h2>
+    <div class="t">Half Year</div>
+    <div class="pr">Six months</div>
+    <ul>
+      <li><b>+4 / +8 / +12 bonus classes</b>, on the spot</li>
+      <li><b>2 guest passes</b> — bring someone</li>
+      <li>Classes roll over, all six months</li>
+      <li>Two 30-day freezes for travel</li>
+      <li>Booking opens 48 hours early</li>
+      <li>Money back as credit</li>
+    </ul>
+  </div>
+  <div class="card">
+    <h2>Only if they hesitate</h2>
+    <div class="t">Quarter</div>
+    <div class="pr">Three months</div>
+    <ul>
+      <li>+1 / +2 / +3 bonus classes, month one</li>
+      <li>Classes roll over</li>
+      <li>One 30-day freeze</li>
+      <li>Money back as credit</li>
+      <li class="mut">No guest passes</li>
+      <li class="mut">No early booking</li>
+    </ul>
+  </div>
+</div>
+
+<h2>Say this — Eight Class</h2>
+<div class="say">
+  <p>“Six months of your Eight at the rate you're on — AED 6,000. I'll put eight extra classes
+  on now, and two guest passes so you can bring someone. Your classes stop expiring, you get
+  two freezes if you travel, and booking opens to you 48 hours early.”</p>
+</div>
+
+<h2>When they push back</h2>
+<table class="obj">
+  <tr><td>Too long a commitment</td><td>“Three months instead — AED 3,000, same locked rate, two extra classes.”</td></tr>
+  <tr><td>Might move, pregnant, injured</td><td>“Whatever's left comes back to you as credit. You're not stuck with it.” <span class="mut">This answers half of every no we got.</span></td></tr>
+  <tr><td>Too expensive</td><td>Don't discount. Say the bonus classes again, then the guest passes.</td></tr>
+  <tr><td>Happy on monthly</td><td>Don't push. Ask what they'd lose by locking it, write it down, move on.</td></tr>
+</table>
+
+<div class="never">
+  <div><b>Never</b>No discounts. No free months. No drink credits — 87% of clients have never bought one. Don't ring anyone marked DECLINED.</div>
+  <div><b>Always</b>Phone first. A call converts at 14%, a WhatsApp at 4%. Log every no, and every “after summer” with a date.</div>
+</div>
+
+</body></html>
