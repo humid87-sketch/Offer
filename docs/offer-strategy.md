@@ -6,7 +6,7 @@
 
 ## The recommendation
 
-> **Six months of your current tier, paid today, at today's rate. The seventh month is free.
+> **The Quarter — three months of your current tier, paid today, at today's rate.
 > Your classes roll over across the whole term. One 30-day freeze, for travel.**
 
 Nothing about the class allowance changes. Nothing about the price per month changes.

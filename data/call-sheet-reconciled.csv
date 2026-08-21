@@ -1,0 +1,136 @@
+pool,call_order,client_name,current_tier,monthly_rate_aed,months_paid_to_date,days_since_last_charge,offer_term_months,ticket_aed,bonus_month_value_aed,lifetime_spend_aed,member_status,phone,email,on_outreach_list,outreach_status
+1. LIVE - lock now,1,"Sheiman, Maegan",Twelve Classes,1400,22,31,6,8400,1400,21525.0,Active,506170624.0,degroovey@gmail.com,False,NOT contacted
+1. LIVE - lock now,2,"Weiner, Danica",Twelve Classes,1400,13,7,6,8400,1400,30070.0,Active,971504306612.0,x2pcrqgm7b@privaterelay.appleid.com,True,follow-up open
+1. LIVE - lock now,3,"De Grood, Bonnie",Twelve Classes,1400,13,11,6,8400,1400,15500.0,Active,509354475.0,Marybdegrood@me.com,True,DECLINED
+1. LIVE - lock now,4,"Gosney, Becky",Eight Classes,1000,15,10,6,6000,1000,16159.0,Active,505104817.0,becky@strengthandmotion.co.uk,True,CONVERTED
+1. LIVE - lock now,5,"Stol, Cindy",Eight Classes,1000,16,11,6,6000,1000,10850.0,Terminated,506834972.0,cindystollenberg@gmail.com,True,DECLINED
+1. LIVE - lock now,6,"Musso, Simona",Eight Classes,1000,19,13,6,6000,1000,16235.0,Active,567777600.0,simona.musso182@gmail.com,False,NOT contacted
+1. LIVE - lock now,7,"Oprea, Mirela",Eight Classes,1000,17,16,6,6000,1000,14770.0,Active,521480184.0,omirela25@yahoo.com,True,DECLINED
+1. LIVE - lock now,8,"Romdhane, Zaineb",Twelve Classes,1400,8,6,6,8400,1400,7450.0,Active,562450075.0,zaineb.romdhane@outlook.com,True,DECLINED
+1. LIVE - lock now,9,"Mackay, Kathy",Eight Classes,1000,13,9,6,6000,1000,14800.0,Active,505417877.0,kathy9275@gmail.com,True,DECLINED
+1. LIVE - lock now,10,"Alsuwaidi, Faten",Twelve Classes,1400,10,43,6,8400,1400,17618.0,Declined,506422452.0,ftn_suwaidi@outlook.com,False,NOT contacted
+1. LIVE - lock now,11,"Rodrigues, Adelia",Twelve Classes,1400,7,2,6,8400,1400,9970.0,Active,971502106522.0,adeliarodrigues13@gmail.com,True,CONVERTED
+1. LIVE - lock now,12,"Kalouti, Omar",Twelve Classes,1400,7,13,6,8400,1400,9370.0,Active,503976219.0,signin.mindbodyonline.com.quarters332@passmail.net,False,NOT contacted
+1. LIVE - lock now,13,"Toron, Najiba",Twelve Classes,1400,7,19,6,8400,1400,7170.0,Suspended,447900327724.0,najibatoron@gmail.com,False,NOT contacted
+1. LIVE - lock now,14,"Chraibi, Asmaa",Eight Classes,1000,11,14,6,6000,1000,8020.0,Suspended,971529660510.0,asmaa2301@hotmail.com,False,NOT contacted
+1. LIVE - lock now,15,"Paturot, Séverine",Eight Classes,1000,10,2,6,6000,1000,12750.0,Suspended,549989526.0,paturotseverine@hotmail.fr,True,DECLINED
+1. LIVE - lock now,16,"Al Ramahi, Tala",Eight Classes,1000,10,6,6,6000,1000,13520.0,Suspended,506665649.0,tala.ramahi@gmail.com,True,DECLINED
+1. LIVE - lock now,17,"Abensour, Alexandra",Eight Classes,1000,11,22,6,6000,1000,10470.0,Active,505996254.0,alexandra.abensour@gmail.com,True,DECLINED
+1. LIVE - lock now,18,"Alshareef, Roofy",Eight Classes,1000,11,26,6,6000,1000,13120.0,Suspended,506610927.0,roofysh@hotmail.com,True,follow-up open
+1. LIVE - lock now,19,"IGNATEVA, ELENA",Eight Classes,1000,10,14,6,6000,1000,11710.0,Suspended,544550121.0,9323232@gmail.com,True,DECLINED
+1. LIVE - lock now,20,"Wild, Hannah",Eight Classes,1000,12,43,6,6000,1000,13120.0,Suspended,585851730.0,hannahwild937@gmail.com,False,NOT contacted
+1. LIVE - lock now,21,"Thornton, Yrie",Eight Classes,1000,12,43,6,6000,1000,11420.0,Suspended,562686080.0,ymithornton@gmail.com,True,DECLINED
+1. LIVE - lock now,22,"Puverel, Carla",Twelve Classes,1400,4,13,6,8400,1400,25890.0,Terminated,971588405742.0,carlapuverel@gmail.com,False,NOT contacted
+1. LIVE - lock now,23,"Salem, Jumana",Twelve Classes,1400,4,13,6,8400,1400,6046.0,Suspended,971502320418.0,wnpw7mnq5h@privaterelay.appleid.com,False,NOT contacted
+1. LIVE - lock now,24,"Hamad, Suzan",Eight Classes,1000,7,12,6,6000,1000,8200.0,Active,971503039000.0,suzi_har@hotmail.com,False,NOT contacted
+1. LIVE - lock now,25,"Hamdan, Ghina",Four Classes,550,15,1,3,1650,550,8690.0,Active,971501820185.0,ghina.abouhamdan1@gmail.com,True,DECLINED
+1. LIVE - lock now,26,"Sharkey, Alison",Eight Classes,1000,6,2,6,6000,1000,4850.0,Active,561618849.0,alisonsharkey1@gmail.com,False,NOT contacted
+1. LIVE - lock now,27,"Tuch, Claire",Twelve Classes,1400,1,2,6,8400,1400,10050.0,Active,9710500201986.0,clairetuch@gmail.com,True,DECLINED
+1. LIVE - lock now,28,"Al-husseini, Faiza",Four Classes,550,15,9,3,1650,550,10589.0,Suspended,504956504.0,faiza.alhusseini@gmail.com,True,CONVERTED
+1. LIVE - lock now,29,"Johnson, David",Four Classes,550,16,9,3,1650,550,6870.0,Active,564559307.0,drjscj@gmail.com,True,DECLINED
+1. LIVE - lock now,30,"Hanaf, Sirine",Eight Classes,1000,7,24,6,6000,1000,8020.0,Active,509260076.0,sirine.hanaf@gmail.com,True,DECLINED
+1. LIVE - lock now,31,"Marco, Elena",Eight Classes,1000,7,24,6,6000,1000,7049.0,Active,34618324342.0,emarcoeulogio@yahoo.es,False,NOT contacted
+1. LIVE - lock now,32,"Panov, Borislav",Eight Classes,1000,6,12,6,6000,1000,6480.0,Active,545001183.0,borislav.panov94@gmail.com,False,NOT contacted
+1. LIVE - lock now,33,"Bisset, Alex",Four Classes,550,18,20,3,1650,550,10410.0,Suspended,824156378.0,akbisset10@gmail.com,True,DECLINED
+1. LIVE - lock now,34,"Hodiamont, Julie",Eight Classes,1000,7,33,6,6000,1000,6370.0,Active,568284286.0,julie.hodiamont@gmail.com,False,NOT contacted
+1. LIVE - lock now,35,"Ghosson, Noura",Four Classes,550,16,36,3,1650,550,7895.0,Suspended,557118544.0,nourhanghosson@outlook.com,True,DECLINED
+1. LIVE - lock now,36,"Smith, Kerry",Four Classes,550,13,9,3,1650,550,10917.0,Active,567408133.0,kerrysmith777@hotmail.co.uk,True,CONVERTED
+1. LIVE - lock now,37,"Elliott, Nicola",Eight Classes,1000,6,41,6,6000,1000,4920.0,Terminated,9710542003362.0,Nicolaelliott100@gmail.com,False,NOT contacted
+1. LIVE - lock now,38,"Elbenni, Hala",Four Classes,550,13,26,3,1650,550,7878.0,Active,547111624.0,halaelbenni@hotmail.com,False,NOT contacted
+1. LIVE - lock now,39,"Serb, Lavinia",Eight Classes,1000,4,25,6,6000,1000,4320.0,Active,509306790.0,l.serb@yahoo.com,False,NOT contacted
+1. LIVE - lock now,40,"Tohme  Grassi, Rana",Eight Classes,1000,3,12,6,6000,1000,3000.0,Active,971506760109.0,ranatohme@hotmail.com,False,NOT contacted
+1. LIVE - lock now,41,"Valiyeva, Rana",Eight Classes,1000,3,15,6,6000,1000,3100.0,Active,971544857277.0,Rena.Veliyeva1984@gmail.com,False,NOT contacted
+1. LIVE - lock now,42,"Savchenko, Tatiana",Eight Classes,1000,4,31,6,6000,1000,4550.0,Active,971562996335.0,Tatiana.savchenko1@gmail.com,False,NOT contacted
+1. LIVE - lock now,43,"Mumayiz, Sarra",Eight Classes,1000,3,26,6,6000,1000,3819.0,Active,561955444.0,smumayiz@gmail.com,True,DECLINED
+1. LIVE - lock now,44,"Abdulla, Khadeeja",Eight Classes,1000,3,29,6,6000,1000,3699.0,Active,971503071772.0,khadeeja.a92@gmail.com,True,DECLINED
+1. LIVE - lock now,45,"Dell, Graeme",Eight Classes,1000,3,30,6,6000,1000,4050.0,Active,971585183333.0,4xg9ky9zrq@privaterelay.appleid.com,True,DECLINED
+1. LIVE - lock now,46,"Mouriaux, Jessica",Eight Classes,1000,3,36,6,6000,1000,4540.0,Suspended,9710504592697.0,Jessica.mouriaux@gmail.com,False,NOT contacted
+1. LIVE - lock now,47,"Grassi, Estelle",Eight Classes,1000,2,34,6,6000,1000,2000.0,Declined,508851806.0,Estellegrsi@gmail.com,False,NOT contacted
+1. LIVE - lock now,48,"Legros, Pierre",Four Classes,550,9,9,3,1650,550,5450.0,Active,506790703.0,pierre.f.legros@gmail.com,False,NOT contacted
+1. LIVE - lock now,49,"Legendre, Stephanie",Four Classes,550,9,10,3,1650,550,8500.0,Active,547606137.0,stephanielegendre@yahoo.fr,True,DECLINED
+1. LIVE - lock now,50,"Makhamanova, Dinara",Eight Classes,1000,1,40,6,6000,1000,3750.0,Active,509501095.0,Dmakhamanova@gmail.com,False,NOT contacted
+1. LIVE - lock now,51,"Arsic, Stephanie",Four Classes,550,7,8,3,1650,550,13641.0,Active,971567073177.0,stephaniearsic@gmail.com,True,DECLINED
+1. LIVE - lock now,52,"Chiha, Maguy",Four Classes,550,8,25,3,1650,550,4620.0,Expired,971559265340.0,maguychiha@gmail.com,False,NOT contacted
+1. LIVE - lock now,53,"Al Marri, Roudha",Four Classes,550,6,8,3,1650,550,3800.0,Active,504469466.0,roudha.almarri@gmail.com,False,NOT contacted
+1. LIVE - lock now,54,"Panaino, Rachel",Four Classes,550,6,29,3,1650,550,4660.0,Active,556286481.0,Rachel.panaino@gmail.com,False,NOT contacted
+1. LIVE - lock now,55,"Gauchon, Marie",Four Classes,550,4,23,3,1650,550,5000.0,,,,False,NOT contacted
+1. LIVE - lock now,56,"Oneyser, Christophe",Four Classes,550,4,26,3,1650,550,2200.0,Active,564416940.0,christophe.oneyser@ehl.ch,False,NOT contacted
+1. LIVE - lock now,57,"Bikaki, Phoebe",Four Classes,550,4,30,3,1650,550,2230.0,Suspended,569756301.0,Phb.jpt@gmail.com,True,DECLINED
+1. LIVE - lock now,58,"Nuseibeh, Zaki",Four Classes,550,3,17,3,1650,550,1870.0,Suspended,557130544.0,zaki.nuseibeh@gmail.com,False,NOT contacted
+1. LIVE - lock now,59,"Keblawi, Zeina",Four Classes,550,3,19,3,1650,550,2360.0,Active,508365055.0,Zkeblawi@gmail.com,False,NOT contacted
+1. LIVE - lock now,60,"Veluru, Sangeetha",Four Classes,550,3,19,3,1650,550,1650.0,Terminated,567719431.0,sangeetha.veluru@hotmail.co.uk,False,NOT contacted
+1. LIVE - lock now,61,"Moniri, Ahmad",Four Classes,550,3,19,3,1650,550,1650.0,Terminated,585129963.0,Ahmad1374@hotmail.co.uk,False,NOT contacted
+1. LIVE - lock now,62,"Rhodes, Rebecaa",Four Classes,550,2,7,3,1650,550,3950.0,Active,565353519.0,becky4rhodes@msn.com,True,DECLINED
+1. LIVE - lock now,63,"Akherraz, Amal",Four Classes,550,2,11,3,1650,550,1420.0,Active,507279634.0,akherrazamal@yahoo.fr,False,NOT contacted
+1. LIVE - lock now,64,"Mason, Jane",Four Classes,550,3,42,3,1650,550,5808.0,Suspended,508257047.0,janemason21@hotmail.com,False,NOT contacted
+1. LIVE - lock now,65,"Triantafyllakou, Stella",Four Classes,550,3,42,3,1650,550,1650.0,Suspended,505139727.0,stella30fyllakou@yahoo.gr,True,DECLINED
+1. LIVE - lock now,66,"Shaw, Matthew",Four Classes,550,2,28,3,1650,550,1320.0,Suspended,585012828.0,zzhpyb78cw@privaterelay.appleid.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,1,"Grant, Paula",Twelve Classes,1400,11,67,6,8400,1400,11608.0,,,,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,2,"Pc, Lucia",Eight Classes,1000,15,59,6,6000,1000,12730.0,Suspended,502374251.0,lpastorclavero@gmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,3,"Dandachi, Nour",Eight Classes,1000,16,71,6,6000,1000,17145.0,Terminated,561229163.0,nourdandachi0@gmail.com,True,follow-up open
+2. SUMMER-LAPSED - restart + lock,4,"Hamill, Kristina",Twelve Classes,1400,9,62,6,8400,1400,16150.0,Active,553569632.0,kriszakharcheva@gmail.com,True,DECLINED
+2. SUMMER-LAPSED - restart + lock,5,"Saeed, Reem",Twelve Classes,1400,10,82,6,8400,1400,10798.01,Terminated,508188386.0,Ralshamisi@gmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,6,"Naheed, Farhat",Twelve Classes,1400,9,90,6,8400,1400,14100.0,Terminated,504414895.0,fnaheed78@gmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,7,"Azzawi, Lenah",Twelve Classes,1400,5,54,6,8400,1400,7290.0,Expired,505962863.0,lenahazzawi@hotmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,8,"Hulot Makkar, Sylvie",Eight Classes,1000,10,56,6,6000,1000,8750.0,Suspended,504100381.0,sylviehulot@hotmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,9,"Moog, Jordan",Eight Classes,1000,9,49,6,6000,1000,19169.0,Active,971585562494.0,moog.jordan@gmail.com,True,DECLINED
+2. SUMMER-LAPSED - restart + lock,10,"Irina, Irina",Eight Classes,1000,9,54,6,6000,1000,9600.0,Declined,559647700.0,jojoirena@gmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,11,"Godefroy, Laeti",Twelve Classes,1400,4,56,6,8400,1400,6350.0,Suspended,504196778.0,laetigodefroy@gmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,12,"Hartle, Kerri",Eight Classes,1000,10,72,6,6000,1000,10670.0,Active,585416509.0,kerrihartle@hotmail.com,True,DECLINED
+2. SUMMER-LAPSED - restart + lock,13,"Lettner, Sandra",Twelve Classes,1400,9,127,6,8400,1400,10304.99,Terminated,971502510779.0,slettner@hotmail.com,True,DECLINED
+2. SUMMER-LAPSED - restart + lock,14,"Hernandez, Alexandra",Twelve Classes,1400,4,72,6,8400,1400,11425.0,Expired,545580069.0,hernandezaleja@gmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,15,"North, Demelza",Twelve Classes,1400,3,61,6,8400,1400,8620.0,Terminated,504318087.0,Demelza.north@gmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,16,"Klein, Hayley",Eight Classes,1000,10,93,6,6000,1000,6520.0,Suspended,508482707.0,hgklein9@gmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,17,"Almoajil, Abeer",Eight Classes,1000,9,83,6,6000,1000,7650.0,Active,971501112811.0,abeerkm0@gmail.com,True,DECLINED
+2. SUMMER-LAPSED - restart + lock,18,"Delman-Lagot, Juliette",Eight Classes,1000,7,58,6,6000,1000,3200.0,Terminated,505230324.0,juliettedelmanlagot@gmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,19,"Askar, Noha",Eight Classes,1000,6,47,6,6000,1000,6400.0,Terminated,549968902.0,noha.askar@gmail.com,True,DECLINED
+2. SUMMER-LAPSED - restart + lock,20,"Tinonin, Chiara",Eight Classes,1000,7,67,6,6000,1000,12270.0,Terminated,585245771.0,chiara.tinonin@gmail.com,True,DECLINED
+2. SUMMER-LAPSED - restart + lock,21,"Davey, Georgette ",Twelve Classes,1400,3,80,6,8400,1400,12725.0,Expired,585890990.0,georgette.davey@lesroches.ae,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,22,"Domljan-Beširović, Iva",Eight Classes,1000,7,71,6,6000,1000,8100.0,Terminated,585519094.0,domljaniva@gmail.com,True,DECLINED
+2. SUMMER-LAPSED - restart + lock,23,"Dugan, Renee",Eight Classes,1000,9,101,6,6000,1000,10040.0,Terminated,502804503.0,renee.dugan@gmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,24,"Baquiro, Lyn",Eight Classes,1000,8,89,6,6000,1000,6601.0,Expired,504347718.0,achildinawe@gmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,25,"Kanayson, Priya",Eight Classes,1000,10,119,6,6000,1000,11990.0,Terminated,509038814.0,pkanayson@gmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,26,"Silvestri, Letizia",Eight Classes,1000,9,111,6,6000,1000,11200.0,Suspended,522508442.0,letiziasilvestri@me.com,True,DECLINED
+2. SUMMER-LAPSED - restart + lock,27,"Haji, Turkan",Eight Classes,1000,7,85,6,6000,1000,7000.0,Suspended,547519170.0,turkan31@gmail.com,True,DECLINED
+2. SUMMER-LAPSED - restart + lock,28,"Rathor, Sona",Eight Classes,1000,11,144,6,6000,1000,15275.0,Active,555022344.0,sona1rathor@hotmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,29,"Breach, Tara",Eight Classes,1000,5,60,6,6000,1000,10820.0,Suspended,501159588.0,t.toener@gmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,30,"Matheron, Millie",Eight Classes,1000,7,96,6,6000,1000,6320.0,Terminated,525887832.0,Milla.matheron@gmail.com,True,DECLINED
+2. SUMMER-LAPSED - restart + lock,31,"B, Valentina",Eight Classes,1000,8,116,6,6000,1000,3720.0,Active,589160634.0,Vale.bonomi@hotmail.it,True,follow-up open
+2. SUMMER-LAPSED - restart + lock,32,"Legendre, Louna",Eight Classes,1000,3,46,6,6000,1000,2550.0,Suspended,508546559.0,Lounalegendre@icloud.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,33,"Cabanne, Clelia",Eight Classes,1000,4,61,6,6000,1000,4170.0,Suspended,543667799.0,cle.clelia@gmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,34,"Lubochinsky, Sarah",Eight Classes,1000,3,48,6,6000,1000,3170.0,Active,585260222.0,sarahcaroline2@gmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,35,"Massart, Pauline",Four Classes,550,12,56,3,1650,550,7100.0,Suspended,567621307.0,pauline.e.massart@gmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,36,"Alshamsi, Muneera",Eight Classes,1000,4,71,6,6000,1000,4489.0,Terminated,508844551.0,drmunshamsi@yahoo.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,37,"rafeh, diana",Eight Classes,1000,3,59,6,6000,1000,3500.0,Suspended,557528444.0,dianarafeh@gmail.com,True,follow-up open
+2. SUMMER-LAPSED - restart + lock,38,"Mahamdeh, Mayce ",Eight Classes,1000,3,61,6,6000,1000,3100.0,Suspended,527269835.0,mayce.mahamdeh@gmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,39,"Gullick, Helen",Eight Classes,1000,3,71,6,6000,1000,4050.0,Terminated,509756581.0,helenniblo@hotmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,40,"Knight, Marianne",Eight Classes,1000,3,84,6,6000,1000,3000.0,Expired,564653247.0,mgretland@yahoo.com,True,DECLINED
+2. SUMMER-LAPSED - restart + lock,41,"Ylitalo, Maria",Four Classes,550,9,46,3,1650,550,6970.0,Suspended,509326659.0,maria.ylitalo1@gmail.com,True,DECLINED
+2. SUMMER-LAPSED - restart + lock,42,"Mulliez, Anne sophie",Eight Classes,1000,2,74,6,6000,1000,3200.0,Terminated,566924591.0,annesophie.royer@gmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,43,"James - Matheron, Katrina",Eight Classes,1000,4,102,6,6000,1000,4100.0,Terminated,5265133456.0,Kutsjames@gmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,44,"de Belgique, Laura",Eight Classes,1000,3,89,6,6000,1000,3550.0,Terminated,7557382937.0,ldebelgique@hotmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,45,"Hamdi, Nour",Eight Classes,1000,6,138,6,6000,1000,4270.0,Terminated,557935182.0,Nn992786@gmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,46,"Vanstraubenzee, Lucy",Eight Classes,1000,1,68,6,6000,1000,2100.0,Suspended,447531577221.0,laniganl@tcd.ie,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,47,"Tomaira, Rana",Eight Classes,1000,2,83,6,6000,1000,2650.0,Suspended,569333113.0,ranatomaira@gmail.com,True,DECLINED
+2. SUMMER-LAPSED - restart + lock,48,"Smith Mansouri, Nassim",Eight Classes,1000,5,127,6,6000,1000,5510.0,Terminated,16503748241.0,nassimsmith@gmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,49,"El Khoury, Raya",Eight Classes,1000,3,108,6,6000,1000,3170.0,Terminated,564541422.0,Raya@el-khoury.co,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,50,"Siam, Samah",Eight Classes,1000,5,138,6,6000,1000,11050.0,Expired,555266688.0,samahm_1986@hotmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,51,"Lithgo, Jahn",Eight Classes,1000,2,98,6,6000,1000,2000.0,Declined,971585819701.0,jahnlithgo@gmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,52,"Guillen Paredes, Victoria",Four Classes,550,7,58,3,1650,550,3950.0,Suspended,507355456.0,Victoria.guillen.paredes@gmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,53,"Allain, Aude",Four Classes,550,12,138,3,1650,550,6870.0,Expired,502826291.0,aude.allain09@gmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,54,"Hannon, Jennifer",Four Classes,550,6,54,3,1650,550,2370.0,Terminated,585782680.0,jenniferlouisehannon@hotmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,55,"Galdeano, Gemma",Four Classes,550,6,58,3,1650,550,3800.0,Suspended,509909404.0,gemmagalde@gmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,56,"Bernabeu, Marina",Eight Classes,1000,2,143,6,6000,1000,2200.0,Terminated,525755221.0,bernabeu.marina@gmail.com,True,DECLINED
+2. SUMMER-LAPSED - restart + lock,57,"Vickery, Peter",Four Classes,550,8,104,3,1650,550,7760.0,Terminated,561138597.0,pvickery2003@yahoo.co.uk,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,58,"Bogushova, Maria",Four Classes,550,7,92,3,1650,550,7350.0,Terminated,971585734486.0,bogushovamaria@gmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,59,"Taha, Mona",Four Classes,550,6,79,3,1650,550,5890.0,Suspended,507702880.0,8q4pjh66z5@privaterelay.appleid.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,60,"Hamilton , Lois ",Four Classes,550,2,56,3,1650,550,1640.0,Declined,585884124.0,Loishamilton@me.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,61,"simic, kristina",Four Classes,550,3,75,3,1650,550,1820.0,Suspended,501381598.0,ks@levantage.co,True,DECLINED
+2. SUMMER-LAPSED - restart + lock,62,"Leucari, Silvia",Four Classes,550,3,76,3,1650,550,2150.0,Active,543533471.0,sc.leucari@gmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,63,"Williams, Amy",Four Classes,550,3,82,3,1650,550,1750.0,Terminated,505327425.0,awilliams813@gmail.com,True,DECLINED
+2. SUMMER-LAPSED - restart + lock,64,"Grant, Peter",Four Classes,550,4,99,3,1650,550,2200.0,Terminated,561950523.0,peterqgrant@gmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,65,"Abou samhadaneh, Dema",Four Classes,550,5,131,3,1650,550,2920.0,Terminated,505434520.0,deemasam97@gmail.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,66,"Entrocassi, JP",Four Classes,550,3,118,3,1650,550,2090.0,Active,585087269.0,jpentrocassi@gmail.com,True,DECLINED
+2. SUMMER-LAPSED - restart + lock,67,"Abou Eid, Souzane",Four Classes,550,3,128,3,1650,550,2160.0,Terminated,503444337.0,souzane.aboueid@hotmail.com,True,DECLINED
+2. SUMMER-LAPSED - restart + lock,68,"Kalidas, Rheshmi",Four Classes,550,3,130,3,1650,550,1650.0,Terminated,552822061.0,rheshmikalidas@icloud.com,False,NOT contacted
+2. SUMMER-LAPSED - restart + lock,69,"Ali, Sarah ",Four Classes,550,2,138,3,1650,550,1520.0,Suspended,545149393.0,Sarah.imran93@gmail.com,True,DECLINED
