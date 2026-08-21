@@ -189,3 +189,81 @@ the last fortnight, no travel or pregnancy flag): **Simona Musso** (19 months) a
 **Asmaa Chraibi** (11 months). Lead with three months for all 36; offer six to those two only
 *after* they have said yes. Upside and downside are both about AED 3,000, so it only pays where
 the profile fits.
+
+---
+
+## Addendum 2: the Half Year, and what to sweeten it with
+
+### A correction I owe
+
+I wrote that "no sweetener was ever pitched" because every conversion paid the exact plain
+multiple of their rate. That only rules out a **price** discount. The two extra classes given
+to the 8-Class members are granted in the booking system, not the till, so they would never
+appear in a sales export. The sweetener was there and I could not see it.
+
+That changes the conclusion in a useful direction: **a sweetener is proven to work here, and
+the proven currency is classes.**
+
+### The ladder — twice the money, three times the bonus classes
+
+| Tier | Monthly | Quarter · 3mo | per class | Half Year · 6mo | per class |
+|---|---|---|---|---|---|
+| Four | AED 550 | AED 1,650 · 13 (+1) | AED 127 | **AED 3,300 · 28 (+4)** | **AED 118** |
+| Eight | AED 1,000 | AED 3,000 · 26 (+2) | AED 115 | **AED 6,000 · 56 (+8)** | **AED 107** |
+| Twelve | AED 1,400 | AED 4,200 · 39 (+3) | AED 108 | **AED 8,400 · 84 (+12)** | **AED 100** |
+
+| | Monthly | Quarter | Half Year |
+|---|---|---|---|
+| Rate locked | — | 3 months | 6 months |
+| Bonus classes | — | 1 / 2 / 3 in month one | **4 / 8 / 12 upfront** |
+| Classes roll over | — | within the term | the full 6 months |
+| Freeze for travel | — | 1 × 30 days | 2 × 30 days |
+| Money back as credit | — | yes | yes |
+| Guest passes | — | — | **2** |
+| 48h priority booking | — | — | **yes** |
+| Drink credits | — | — | — |
+
+### Stress test: the drink credit does not survive
+
+- **87% of clients have never bought a drink** — 217 of 1,664. Among the untouched live members you would pitch this to, 72% never have.
+- **You already give drinks away.** Half of all cafe lines went out discounted, 396 of them at 90%+ off. A free drink is the ambient state, not a concession.
+- **Cafe is 0.76% of AED 3.34M.** Attaching it to your highest-value product spends the headline on the least-wanted thing you sell, and hands a hesitant member a clean reason to say "I don't really drink coffee here".
+
+### Every candidate sweetener, priced — 6-month Eight Class, AED 6,000
+
+| Sweetener | Face value | True cost | Verdict |
+|---|---|---|---|
+| 2 guest passes | AED 440 | **−AED 1,292** | Keep — refills a funnel down from 126 first visits/mo to 10 |
+| 8 bonus classes | AED 750 | AED 0 | Keep — proven, this closed the 8-packers |
+| Full-term rollover | AED 500 | AED 0 | Keep — 629 classes expired unused |
+| 2 × 30-day freeze | — | AED 0 | Keep — travel is why half the base goes dark |
+| Money back as credit | — | AED 0 | Keep — answers 48% of refusals |
+| 48h priority booking | — | AED 0 | Keep — "I can never get into the Monday 7pm" |
+| 6 drink credits | AED 288 | AED 72 | **Cut** — 87% never buy one |
+| 1 free month | AED 1,000 | AED 1,000 | **Cut** — buys down price, 12% of refusals |
+
+The six that survive hand over **AED 1,690 of perceived value on a AED 6,000 sale (28%)** at a
+**negative** true cost — a guest who takes a first class repeats 39% of the time and is worth
+AED 1,586 lifetime. The free month was AED 1,000 of cost for AED 1,000 of perception.
+
+### Why bonus classes beat a free month
+
+Both are AED 1,000 of face value on the Eight tier. They are not the same to you:
+
+- **A free month** gives eight classes *and* a seventh month of locked rate — their renewal slips a month, and your next collection with it.
+- **Eight bonus classes** gives the same eight classes inside a term that still ends at month six, so **they renew a month sooner**.
+
+Same giveaway, better cash timing — and classes never put a discount on the rate, so the
+never-discounted precedent stays intact.
+
+Who wants them most is also who is most likely to sign six months: **11 members are logged as
+hitting their monthly class ceiling**, averaging AED 10,698 lifetime. For them the binding
+constraint is classes, not money.
+
+### The one thing to watch
+
+Bonus classes cost nothing only while classes are under-filled — which they are, with revenue
+halved. Fifteen Half Year sales adds roughly 20 seats a month, so exposure is small. But if
+September fills, priority booking plus bonus classes recreates the exact "can't get into the
+Monday 7pm" frustration for your monthly members. **Cap redemption to classes that still have
+open seats twelve hours out.**

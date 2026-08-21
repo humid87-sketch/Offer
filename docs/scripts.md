@@ -14,12 +14,13 @@ reason they are being offered it.
 >
 > We're doing one thing before the end of August, only for members who've been steady like that.
 >
-> You can pay three months of your [Eight] now, at the rate you're on — [AED 1,000] — and we
-> lock it. For those three months your classes stop expiring at the end of the month, they
-> roll. If you're travelling you can freeze it for 30 days. And if you end up moving, or
-> you're pregnant, or you get injured, whatever's left comes back to you as credit.
+> There are two ways to do it. Six months of your [Eight] at the rate you're on — [AED 1,000],
+> locked — and I put [8] extra classes on straight away, plus two guest passes so you can bring
+> someone. Your classes stop expiring at the end of the month for the whole six, you get two
+> 30-day freezes for travel, and booking opens to you 48 hours early.
 >
-> It's [AED 3,000] today, at a rate that doesn't move.
+> That's [AED 6,000] today. And if you end up moving, or you're pregnant, or you get injured,
+> whatever's left comes back to you as credit — you're not stuck with it.
 >
 > Want me to set it up before the end of the month?
 
